@@ -1,0 +1,15 @@
+# ==============================================================================
+# Dự án: Minimax & Alpha-Beta Pruning 
+# ==============================================================================
+
+# Dự án này được viết bằng Python thuần và chỉ sử dụng các thư viện tiêu chuẩn 
+# (built-in libraries) như time, random, itertools.
+
+# Hiện tại KHÔNG YÊU CẦU cài đặt thêm dependency bên ngoài nào qua pip.
+
+# ------------------------------------------------------------------------------
+# Ghi chú cho quá trình phát triển tương lai:
+# Nếu bạn tích hợp giao diện đồ họa (GUI) hoặc các thư viện tính toán ma trận, 
+# hãy thêm chúng vào dưới đây. Ví dụ:
+# pygame>=2.5.0
+# numpy>=1.26.0
